@@ -1,5 +1,3 @@
-# GBDT_Catalyst
-
 ## Catalyst Property Prediction with GBDT
 
 This repository implements Gradient Boosting Decision Trees (GBDT) for modeling relationships between catalyst features and target properties (e.g. activity/stability). The model captures non-linear interactions through iterative decision tree ensembles, providing interpretable feature importance analysis.
