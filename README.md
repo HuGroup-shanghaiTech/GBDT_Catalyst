@@ -9,10 +9,10 @@ Feature Engineering: Automated handling of catalyst descriptors (electronic/geom
 Non-linear Modeling: Capture complex feature-property relationships via multi-level tree splits
 Feature importance: Feature importance value integration for feature contribution (see `GBDT_catalyst.py`)
 
-###Installation
+### Installation
 Install the latest stable version: pip install gbdt
 
-###Code Structure
+### Code Structure
 ├── GBDT_catalyst.py              # Main model class and training pipeline
 ├── data                 # Dataset directory
 │   ├── Train_Data.csv   # Training set (features & labels)
